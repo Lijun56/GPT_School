@@ -14,10 +14,10 @@ TagManager:
   - UI
   - head layer
   - body layer
-  - floor
-  - 
-  - 
-  - 
+  - teleport
+  - interactable
+  - player
+  - Grabbed
   - 
   - 
   - 
