@@ -38,7 +38,7 @@ To pull up the ChatGPT GUI, follow the instructions provided within the applicat
 ChatGPT interface is controlled by the 'OpenAIController.cs' script under 'GPT' directory. 
 |Scenes||
 |---|---|
-|**Set Role of GPT**|**ChatGPTPlayerClones**|
+|**Set Role of GPT**|
 ![GPTEFFECT](GPTEffect.png)
 ![roleplay](roleplay.png)
 
