@@ -39,7 +39,9 @@ ChatGPT interface is controlled by the 'OpenAIController.cs' script under 'GPT' 
 |Scenes||
 |---|---|
 |**Set Role of GPT**|**ChatGPTPlayerClones**|
-|<img src="https://github.com/Lijun56/GPT_School/roleplay.png" width="300">|<img src="https://github.com/Lijun56/GPT_School/GPTEffect.png" width="300">|
+![GPTEFFECT](GPTEFFECT.png)
+![roleplay](roleplay.png)
+
 
 ## Implementation(SDK and Plugin)
 - [Photon Unity Networking (PUN)](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922): Provides the multiplayer functionality, including synchronization of chat, voice, and avatar's movement in the network.
