@@ -39,7 +39,7 @@ ChatGPT interface is controlled by the 'OpenAIController.cs' script under 'GPT' 
 |Scenes||
 |---|---|
 |**Set Role of GPT**|**ChatGPTPlayerClones**|
-![GPTEFFECT](GPTEFFECT.png)
+![GPTEFFECT](GPTEffect.png)
 ![roleplay](roleplay.png)
 
 
